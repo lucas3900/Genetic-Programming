@@ -1,0 +1,4 @@
+{:deps
+	{org.clojure/data.csv {:mvn/version "1.0.0"}
+     metasoarous/oz {:mvn/version "2.0.0-alpha2"}}}
+
